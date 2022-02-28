@@ -1,0 +1,7 @@
+{
+  "botClientID": "botid",
+  "botPrefix": "+",
+  "botToken": "token",
+  "embedColor": "#00dbff",
+  "embedfooterText": "Discord.js v13 - R4IN#1437"
+}
